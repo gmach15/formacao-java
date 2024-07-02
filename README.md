@@ -7,3 +7,5 @@ Repositório composto por testes e exercícios da formação JAVA:
 4. Compreensão do uso de argumentos e execução de arquivos .class via terminal;
 5. Método scanner para obtenção de inputs do usuário;
 6. Estruturas condicionais (simples, composta, encadeada, ternária e switch case);
+7. Estruturas de repetição (for, while e do while);
+8. Estruturas excepcionais (Try, Catch e Finally);
